@@ -12,24 +12,24 @@ function Header() {
             <div className='flex justify-around p-2 w-7/12 pl-4'>
               <AllenLogo />
 
-              <div className='pl-6 font-normal'>Courses</div>
+              <div className='pl-6 font-normal cursor-pointer'>Courses</div>
 
-              <div className='pl-6 font-normal'>Test Series</div>
+              <div className='pl-6 font-normal cursor-pointer'>Test Series</div>
 
-              <div className='pl-6 font-normal'>Scholarships</div>
+              <div className='pl-6 font-normal cursor-pointer'>Scholarships</div>
 
-              <div className='pl-6 font-normal'>Results</div>
+              <div className='pl-6 font-normal cursor-pointer'>Results</div>
               <div className='bg-[#E8900E] text-white h-5 w-8 rounded-2xl text-xs p-0.5 relative bottom-2'>NEW</div>
 
-              <div className='pl-6 font-normal'>Study Materials</div>
+              <div className='pl-6 font-normal cursor-pointer'>Study Materials</div>
 
-              <div className='pl-6 font-normal'>About Us</div>
+              <div className='pl-6 font-normal cursor-pointer'>About Us</div>
             </div>
 
             <div className='flex justify-center w-2/12 pl-2'>
-              <div className='bg-[#0b64ca] rounded-full h-9 w-9 flex items-center pl-2'> <PhoneLogo /> </div>
+              <div className='bg-[#0b64ca] rounded-full h-9 w-9 flex items-center pl-2 cursor-pointer'> <PhoneLogo /> </div>
 
-              <div className='mt-0.5 ml-5 pl-3 pt-1.25 text-sm font-semibold border-blue-700 border-2 rounded-l-3xl rounded-r-3xl w-16'>Login</div>
+              <div className='mt-0.5 ml-5 pl-3 pt-1.25 text-sm font-semibold border-blue-700 border-2 rounded-l-3xl rounded-r-3xl w-16 cursor-pointer'>Login</div>
             </div>
 
           </div>

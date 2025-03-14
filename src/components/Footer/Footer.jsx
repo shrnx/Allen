@@ -11,71 +11,71 @@ function Footer() {
             <div className='max-w-44 pl-8'>
               <h2>About</h2>
               <ul className="pt-2">
-                <li className='pt-3 text-sm'><a href="">About us</a></li>
-                <li className='pt-3 text-sm'><a href="">Blog</a></li>
-                <li className='pt-3 text-sm'><a href="">News</a></li>
-                <li className='pt-3 text-sm'><a href="">MyExam EduBlogs</a></li>
-                <li className='pt-3 text-sm'><a href="">Privacy policy</a></li>
-                <li className='pt-3 text-sm'><a href="">Public notice</a></li>
-                <li className='pt-3 text-sm'><a href="">Careers</a></li>
-                <li className='pt-3 text-sm'><a href="">Dhoni Inspires NEET Aspirants</a></li>
-                <li className='pt-3 text-sm'><a href="">Dhoni Inspires JEE Aspirants</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">About us</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Blog</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">News</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">MyExam EduBlogs</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Privacy policy</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Public notice</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Careers</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Dhoni Inspires NEET Aspirants</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Dhoni Inspires JEE Aspirants</a></li>
               </ul>
             </div>
 
             <div className='max-w-44'>
               <h2>Help & Support</h2>
               <ul className="pt-2">
-                <li className='pt-3 text-sm'><a href="">Refund policy</a></li>
-                <li className='pt-3 text-sm'><a href="">Transfer policy</a></li>
-                <li className='pt-3 text-sm'><a href="">Terms & Conditions</a></li>
-                <li className='pt-3 text-sm'><a href="">Contact us</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Refund policy</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Transfer policy</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Terms & Conditions</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Contact us</a></li>
               </ul>
             </div>
 
             <div className='max-w-44'>
               <h2>Popular Goals</h2>
               <ul className="pt-2">
-                <li className='pt-3 text-sm'><a href="">NEET UG</a></li>
-                <li className='pt-3 text-sm'><a href="">JEE Advanced</a></li>
-                <li className='pt-3 text-sm'><a href="">6th to 10th</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">NEET UG</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">JEE Advanced</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">6th to 10th</a></li>
               </ul>
             </div>
 
             <div className='max-w-44'>
               <h2>Courses</h2>
               <ul className="pt-2">
-                <li className='pt-3 text-sm'><a href="">Online Courses</a></li>
-                <li className='pt-3 text-sm'><a href="">Distance Learning</a></li>
-                <li className='pt-3 text-sm'><a href="">Online Test Series</a></li>
-                <li className='pt-3 text-sm'><a href="">NEET Test Series</a></li>
-                <li className='pt-3 text-sm'><a href="">JEE Test Series</a></li>
-                <li className='pt-3 text-sm'><a href="">JEE Main Test Series</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Online Courses</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Distance Learning</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Online Test Series</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">NEET Test Series</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">JEE Test Series</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">JEE Main Test Series</a></li>
               </ul>
             </div>
 
             <div className='max-w-44'>
               <h2>Centres</h2>
               <ul className="pt-2">
-                <li className='pt-3 text-sm'><a href="">Kota</a></li>
-                <li className='pt-3 text-sm'><a href="">Bangalore</a></li>
-                <li className='pt-3 text-sm'><a href="">Indore</a></li>
-                <li className='pt-3 text-sm'><a href="">Delhi</a></li>
-                <li className='pt-3 text-sm'><a href="">More centres</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Kota</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Bangalore</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Indore</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Delhi</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">More centres</a></li>
               </ul>
             </div>
 
             <div className='max-w-32'>
               <h2>Exam Information</h2>
               <ul className="pt-2">
-                <li className='pt-3 text-sm'><a href="">JEE Main</a></li>
-                <li className='pt-3 text-sm'><a href="">JEE Advanced</a></li>
-                <li className='pt-3 text-sm'><a href="">NEET UG</a></li>
-                <li className='pt-3 text-sm'><a href="">Class 10</a></li>
-                <li className='pt-3 text-sm'><a href="">Class 12</a></li>
-                <li className='pt-3 text-sm'><a href="">Olympiad Exam</a></li>
-                <li className='pt-3 text-sm'><a href="">CUET Exam</a></li>
-                <li className='pt-3 text-sm'><a href="">JEE Main 2025 Session 1 Answer Key</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">JEE Main</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">JEE Advanced</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">NEET UG</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Class 10</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Class 12</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">Olympiad Exam</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">CUET Exam</a></li>
+                <li className='pt-3 text-sm cursor-pointer'><a href="">JEE Main 2025 Session 1 Answer Key</a></li>
               </ul>
             </div>
 
